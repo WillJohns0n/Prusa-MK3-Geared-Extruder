@@ -8,8 +8,8 @@
 This project is converting the Prusa MK3S+ extruder into a geared extruder configuration. The primary goal is to harness the advantages of a geared extruder while retaining compatibility with as many of the original stock components as feasible. 
 
 **Some new parts are required:**
-1) Bontech RIDGA V2 https://www.bondtech.se/product/oem-ridga-reverse-integrated-drive-gear-assembly-v2/
-2) LDO-36STH20-1004AHG (XH)
+1) Bondtech RIDGA V2 https://www.bondtech.se/product/oem-ridga-reverse-integrated-drive-gear-assembly-v2/
+2) Stepper Motor - LDO-36STH20-1004AHG (XH)
 3) 1 off M3x10 Cap head screw
 4) 1 off M3 Nyloc nut
 5) Printed parts in the files section
