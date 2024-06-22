@@ -2,7 +2,7 @@
 
 
 
-Project Overview: Enhancing the Prusa MK3 Extruder with Geared Design
+Project Overview: Enhancing the Prusa MK3s+ Extruder with Geared Design
 
 This project is converting the Prusa MK3 extruder into a geared extruder configuration. The primary goal is to harness the advantages of a geared extruder while retaining compatibility with as many of the original stock components as feasible. 
 
