@@ -1,3 +1,7 @@
+![image](https://github.com/WillJohns0n/Prusa-MK3-Geared-Extruder/assets/102843074/5130c6be-5854-481b-8fc8-9ba6e8feb844)  ![image](https://github.com/WillJohns0n/Prusa-MK3-Geared-Extruder/assets/102843074/8dcf0edf-5c90-4481-bc36-f6bf2c360ad7)
+
+
+
 Project Overview: Enhancing the Prusa MK3 Extruder with Geared Design
 
 This project is converting the Prusa MK3 extruder into a geared extruder configuration. The primary goal is to harness the advantages of a geared extruder while retaining compatibility with as many of the original stock components as feasible. 
